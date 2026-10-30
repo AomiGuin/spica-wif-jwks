@@ -1,0 +1,1 @@
+{"id_token_signing_alg_values_supported":["ES256"],"issuer":"https://spica.in.penguins-lab.net","jwks_uri":"https://aomiguin.github.io/spica-wif-jwks/keys.json","response_types_supported":["id_token"],"subject_types_supported":["public"]}
